@@ -1,0 +1,6 @@
+ExampleHeader {
+Scheduler Name: Priority
+M: 0.9
+E2E: 0.99
+nChannels: 16
+}
